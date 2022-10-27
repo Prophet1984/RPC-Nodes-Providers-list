@@ -649,9 +649,3 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://docs.astar.network/maintain/archive-node/docker#running-rpc-node](https://docs.astar.network/maintain/archive-node/docker#running-rpc-node)
-
-## Contributors
-
-<a href="https://github.com/arddluma/awesome-list-rpc-nodes-providers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arddluma/awesome-list-rpc-nodes-providers" />
-</a>
