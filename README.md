@@ -4,7 +4,7 @@
     </a>
 </p>
 
-## awesome-list-rpc-nodes-providers<!-- omit in toc -->
+## RPC-Nodes-Providers-list<!-- omit in toc -->
 
 
 [MultiNodes](https://multinodes.xyz) provides you with a list of PUBLIC RPC endpoints and Node providers for
